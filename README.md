@@ -56,3 +56,22 @@ Here are some of the key first principles that could serve as the foundation for
 - Ethical Use of Technology: Technology should be developed and deployed in service of human and ecological well-being, guided by ethical principles that prioritize responsible innovation and equitable access.
 
 These first principles provide a solid foundation for developing operating principles that are grounded in humanistic values, ecological awareness, cultural sensitivity, and systems thinking. They ensure that Integrative R&D's activities and solutions are guided by a holistic, compassionate, and sustainable approach to addressing global challenges.
+
+# Company Operating Principles
+
+Operating principles for Integrative R&D that provide practical guidance aligned with the humanistic, mindful, ecological, compassionate, culturally-aware and systems thinking first principles:
+
+1. Participatory Governance: Decisions will be made through participatory and consensus-based processes that empower all members to have a voice and share ownership. Facilitators will guide inclusive dialogue to align collective wisdom.
+2. Holistic Impact Assessment: All projects, solutions and major decisions will undergo a holistic impact assessment evaluating potential effects across environmental, social, economic, cultural and ethical domains using a systems thinking approach.
+3. Ethical Technology Development: Technologies will be developed according to strict ethical guidelines that prioritize beneficence, non-maleficence, autonomy, justice and explicability. Interdisciplinary teams will proactively identify and mitigate risks.
+4. Ecocentric Design: Products, services and systems will be designed through an ecological lens, striving for seamless integration with natural cycles, low environmental impact, and regenerative potential. Biomimicry principles will be widely applied.
+5. Community Co-Creation: Solutions will be co-created through deep engagement with the communities they aim to serve, ensuring cultural relevance, capacity building, and shared ownership from conception through implementation.
+6. Open Knowledge Sharing: Research, data and insights will be openly shared through accessible platforms to democratize access to knowledge and accelerate cross-pollination of ideas globally.
+   7.Equitable Partnerships: Collaboration will be pursued through equitable partnerships across sectors built on mutual respect, reciprocity and aligned values/interests. Power imbalances will be proactively addressed.
+7. Reflective Practice: Members will engage in regular personal and collective reflection to cultivate mindfulness, learn from experiences/feedback, question assumptions and adapt practices accordingly.
+8. Lifelong Learning Culture: A growth mindset will be nurtured by providing rich opportunities for all members to continually expand knowledge, skills and worldviews through diverse channels.
+9. Compassionate Operations: All operations, from sourcing to facilities, will be conducted compassionately in ways that respect all life, promote wellbeing and minimize environmental and social harm.
+10. Fair and Mindful Governance: Governance will operate transparently based on mindful stewardship, fair processes, and accountability to uphold integrity while adapting flexibly as needs evolve.
+11. Celebration of Diversity: The diversity of cultures, identities, abilities, disciplines and ways of knowing within the organization and its networks will be celebrated and leveraged as a source of collective strength.
+
+These operating principles lay out clear practical guidance for how Integrative R&D conducts participatory decision-making, technology development, design, partnerships, reflection, learning and all aspects of its operations in adherence to its humanistic first principles. They provide a strong ethical foundation for creating integrated solutions in service of people and planet.
