@@ -40,7 +40,9 @@ The application of first principles is widely used in various fields, such as ph
 
 Examples of first principles include Newton's laws of motion in physics, the axioms of set theory in mathematics, and the principle of non-contradiction in logic. By understanding and applying these fundamental principles, more complex theories, models, and applications can be developed and refined.
 
-These first principles that could serve as the foundation for Integrative R&D's operating principles, based on a humanistic, mindful, ecological, compassionate, culturally-aware, and systems thinking approach:
+# Company First Principles
+
+Here are some of the key first principles that could serve as the foundation for Integrative R&D's operating principles, based on a humanistic, mindful, ecological, compassionate, culturally-aware, and systems thinking approach:
 
 - Human Dignity and Well-being: The inherent worth and dignity of every human being is the central focus. All activities and solutions should ultimately aim to enhance the well-being, fulfillment, and empowerment of individuals and communities.
 - Interconnectedness and Systems Thinking: Everything is interconnected and interdependent within the larger ecosystems and systems we are a part of. Solutions and decisions must consider the ripple effects and systemic impacts across environmental, social, economic, and cultural domains.
